@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>mastering RWD Demo1</title>
+        <link rel="stylesheet" src="css/styles.css">
+    </head>
+    <body>
+        <header>
+            <h1>Hello world!</h1)
+        </header>
+    </body>
+</html>
+

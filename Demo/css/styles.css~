@@ -1,0 +1,6 @@
+/* SCSS */
+header {
+  background-image: linear-gradient(red, blue);
+}
+
+/*# sourceMappingURL=styles.css.map */

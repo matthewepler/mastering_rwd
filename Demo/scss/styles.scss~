@@ -1,0 +1,11 @@
+/* SCSS */
+@import '_mediaqueries'
+
+header  {
+    width: 50%; /* mobile first */
+    background: red;
+    @include mobileFirst(640) {
+        width: 100%; /* 'medium' screens */
+        background: blue;
+    }
+}

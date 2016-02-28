@@ -1,0 +1,15 @@
+/* SCSS */
+header {
+  width: 50%;
+  /* mobile first */
+  background: red;
+}
+@media (min-width: 40em) {
+  header {
+    width: 100%;
+    /* 'medium' screens */
+    background: blue;
+  }
+}
+
+/*# sourceMappingURL=styles.css.map */
