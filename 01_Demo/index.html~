@@ -2,7 +2,7 @@
 <html>
     <head>
         <title>mastering RWD Demo1</title>
-        <link rel="stylesheet" src="css/styles.css">
+        <link rel="stylesheet" href="css/styles.css">
     </head>
     <body>
         <header>

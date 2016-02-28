@@ -1,5 +1,5 @@
 /* SCSS */
-@import '_mediaqueries'
+@import '_mediaqueries';
 
 header  {
     width: 50%; /* mobile first */
